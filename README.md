@@ -1,9 +1,9 @@
 # CNLabAssignment
  A simple HTTP client application and experiment it in real HTTP Servers.
- Contributors : 
+ # Contributors : 
  1) Rakshitha Ramachandra (40057170)
  2) Nikhil Vijayan (40057171)
- References : 
+ # References : 
  1) http://www.cafeaulait.org/course/week12/22.html
  2) https://stackoverflow.com/questions/2864117/read-data-from-a-text-file-using-java
  3) https://onlinecurl.com/
